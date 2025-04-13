@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN stack<br><br>👨‍💻 All of my projects are available at https://www.linkedin.com/in/soni-sah/<br><br>📫 How to reach me sonisah273b@gmail.com
+🌱 I’m currently learning PHP & Mysql<br><br>👨‍💻 All of my projects are available at https://www.linkedin.com/in/soni-sah/<br><br>📫 How to reach me sonisah273b@gmail.com
 
 
 ## 🌐 Socials:
